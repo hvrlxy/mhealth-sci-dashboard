@@ -1,0 +1,37 @@
+h1 {
+    border: 2px #eee solid;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+}
+
+table, th, td {
+    border: 2px solid;
+    padding: 5px;
+    margin: 10px;
+    /* text should be centered */
+    text-align: center;
+    white-space: nowrap;
+    /* make the table centered in the page */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid;
+}
+
+th {
+    height: 70px;
+  }
+
+.next-prev-ref {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    /* Center horizontally*/
+    text-align: center;
+  }

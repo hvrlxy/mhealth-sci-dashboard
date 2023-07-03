@@ -1,0 +1,31 @@
+{
+    "user01":[{
+        "AUC": "2000",
+        "start_date": "2023-06-25"
+    }],
+    "user06":[{
+        "AUC": "2500",
+        "start_date": "2023-06-20"
+    }],
+    "scijitai_01":[{
+        "AUC": "2000",
+        "start_date": "2023-06-12"
+    }
+    ],
+    "scijitai_02":[{
+        "AUC": "2000",
+        "start_date": "2023-06-20"
+    }],
+    "scijitai_03":[{
+        "AUC": "2000",
+        "start_date": "2023-06-20"
+    }],
+    "scijitai_04":[{
+        "AUC": "2000",
+        "start_date": "2023-06-20"
+    }],
+    "scijitai_05":[{
+        "AUC": "2000",
+        "start_date": "2023-06-20"
+    }]
+}
